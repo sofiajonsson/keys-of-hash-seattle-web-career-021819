@@ -16,5 +16,6 @@ class Hash
     arguments.each do |i|
       if i== value 
         array.push(key)
+        
    
 end
