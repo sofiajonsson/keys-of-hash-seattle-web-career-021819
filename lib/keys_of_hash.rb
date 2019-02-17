@@ -22,4 +22,3 @@ class Hash
 end
   array
 end
-end
