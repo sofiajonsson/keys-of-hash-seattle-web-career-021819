@@ -10,7 +10,7 @@ end
 
 
 class Hash
-  def keys_of(arguments)
+  def keys_of(*arguments)
     # code goes here
     array = []
     arguments.each do |i|
@@ -19,5 +19,6 @@ class Hash
       end
     end
   end
-end
  return array
+ end
+ end
