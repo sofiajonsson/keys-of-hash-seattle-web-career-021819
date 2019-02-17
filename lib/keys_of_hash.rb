@@ -14,6 +14,7 @@ class Hash
     # code goes here
     array = []
     arguments.each do |i|
-      if i==
+      if i== value 
+        value.push()
    
 end
