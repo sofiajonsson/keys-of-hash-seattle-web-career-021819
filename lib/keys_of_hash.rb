@@ -14,8 +14,11 @@ class Hash
     # code goes here
     array = []
     arguments.each do |i|
-      if i== value 
+      if i == value 
         array.push(key)
-        
-   
+      end
+    end
+  end
+  array
+end
 end
